@@ -101,12 +101,6 @@ const default_config = {
             name: "Trade",
             links: [
           {
-            name: "schwab",
-            url: "https://trade.thinkorswim.com/charts",
-            icon: "brand-cashapp",
-            icon_color: "#7aa2f7",
-          },
-          {
             name: "hyperliquid",
             url: "https://app.hyperliquid.xyz/trade",
             icon: "droplet",
