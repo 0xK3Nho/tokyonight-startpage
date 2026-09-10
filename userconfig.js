@@ -108,7 +108,7 @@ const default_config = {
           },
           {
             name: "backpack",
-            url: "https://backpack.exchange/stocks",
+            url: "https://backpack.exchange/stocks/screener",
             icon: "backpack",
             icon_color: "#f7768e",
           },
