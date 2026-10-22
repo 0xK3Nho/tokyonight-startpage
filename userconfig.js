@@ -62,7 +62,7 @@ const default_config = {
           },
           {
             name: "linuxdo",
-            url: "https://linux.do/tag/444-tag/444",
+            url: "https://linux.do/tag/444-tag/444/l/new",
             icon: "brand-openai",
             icon_color: "#bb9af7",
           },
